@@ -32,4 +32,4 @@ steps:
 - task: PythonScript@0
   inputs:
     scriptSource: 'filePath'
-    scriptPath: 'main.py'
+    scriptPath: 'src/main.py'
